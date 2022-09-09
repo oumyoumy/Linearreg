@@ -27,7 +27,6 @@ y_pred = regressor.predict(X_test)
 #To predict a specific salary
 regressor.predict([[15]])
 
-print(X_train)
 # Visualising the Training set results
 plt.scatter(X_test, y_test, color = 'red')
 
