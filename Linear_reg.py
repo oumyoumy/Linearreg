@@ -46,8 +46,4 @@ plt.show()
 # the blue line corresponds to our linear regression model
 # to predict we project the red points on the line, we make another projection of this point on the salary abscissa to have the predicted salary
 
-plt.show()
-#les crois en rouge sont des valeurs reels 
-#la droite bleue corespand a notre modele de regression lineaire
-#pour predire on fait la projection des points rouges sur la droite, on fait une autre projection de ce point sur l abscisse salary pour avoir le salaire predit
 
